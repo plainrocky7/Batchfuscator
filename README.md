@@ -22,7 +22,11 @@ The main goal is to practice Go programming and file manipulation.
 ## Usage
 
 ```bash
-go run main.go <file.bat>
+go run batchfuscator <file.bat>
+```
+Or download from releases and run
+```bash
+batchfuscator.exe file.bat
 ```
 ## License
 This project is licensed under the MIT License. See Here For Details [MIT LICSENE](https://opensource.org/license/mit).
